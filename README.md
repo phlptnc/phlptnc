@@ -1,7 +1,7 @@
 Hi! My name is Philip Joseph Tenecio 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Belgrade, Serbia.
+🌍  I am a Front-End Developer based in Cavite, Philippines.
 <br/>
 
 ### Skills
