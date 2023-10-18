@@ -1,7 +1,7 @@
 Hi! My name is Philip Joseph Tenecio 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Cavite, Philippines.
+🌍  I am a Freelancer and a Web Developer based in Cavite, Philippines.
 <br/>
 
 ### Skills
